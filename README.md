@@ -15,7 +15,7 @@
 <ol>
     <li>Собрать проект командой <code>npm install</code></li>
     <li>Добавить токен бота и chat_id в .env файл</li>
-    <li>Запустить проект командой <code>node index.js</code></li>
+    <li>Запустить проект командой <code>npm run start</code></li>
     <li>Написать боту и ожидать</li>
 </ol>
 
